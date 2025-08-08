@@ -1,30 +1,23 @@
 ## Olá Mundo! Eu sou a Cristiani 👋
 
-Tenho 27 anos, atualmente moro no interior do Paraná.
+# 💫 About Me:
+Tenho 27 anos, atualmente moro no interior do Paraná.<br><br>Estou aprendendo programação desde 2021, comecei com linguagem C++, que foi a linguagem que fui apresentada na faculdade, também foi meu primeiro contato com a programação a linguagem de marcação, conhecida como HTML. Mas não gostei muito dessa área e decidi aprender Java, desde então estou buscando evoluir meu conhecimento na linguagem.<br><br>Aqui vou compartilhar com vocês minha evolução, meu passo a passo, pois confesso que está sendo difícil conciliar trabalho, laser e estudos, mesmo diante desta dificuldade, estou seguindo em frente e irei dar o meu melhor para um dia conseguir ser uma profissional qualificada.
 
-Estou aprendendo programação desde 2021, comecei com linguagem C++, que foi a linguagem que fui apresentada na faculdade, também foi meu primeiro contato com a programação a linguagem de marcação, conhecida como HTML. Mas não gostei muito dessa área e decidi aprender Java, desde então estou buscando evoluir meu conhecimento na linguagem.
 
-Aqui vou compartilhar com vocês minha evolução, meu passo a passo, pois confesso que está sendo difícil conciliar trabalho, laser e estudos, mesmo diante desta dificuldade, estou seguindo em frente e irei dar o meu melhor para um dia conseguir ser uma profissional qualificada.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WzZ9mNzp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristianibudnik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianibudnik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristiani-budnik@outlook.com) 
 
-## Meus conhecimentos ##
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CristianiBudnik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CristianiBudnik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianiBudnik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
-## IDEs ##
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CristianiBudnik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Me encontre aqui: ##
-<p align="left"> <a href="https://www.github.com/CristianiBudnik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" título="GitHub" /> </imagem> </a> <a href="https://www.linkedin.com/in/cristianibudnik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" título="LinkedIn" /> </imagem> </a></p>
+---
+[![](https://visitcount.itsvg.in/api?id=CristianiBudnik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<b>Minhas estatísticas do GitHub</b>
-
-<a href="http://www.github.com/CristianiBudnik"><img src="https://github-readme-stats.vercel.app/api?username=CristianiBudnik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de CristianiBudnik" /></a>
-
-<b>Principais repositórios</b>
-
-<div width="100%" align="center"> <a href="https://github.com/CristianiBudnik/CadastroCliente" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianiBudnik&repo=CadastroCliente&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
